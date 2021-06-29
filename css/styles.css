@@ -30,3 +30,30 @@ h1 {
     padding-top: 25%;
     font-size: 5rem;
 }
+
+main {
+    margin: auto;
+    width: 75%;
+    padding: 2rem;
+}
+
+h2 {
+    padding: 1.5rem 0;
+    color: lightblue;
+}
+
+#subject-one {
+    text-align: left;
+}
+
+#subject-two {
+    text-align: right;
+}
+
+#par-one {
+    text-align: left;
+}
+
+#par-two {
+    text-align: right;
+}

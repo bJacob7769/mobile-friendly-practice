@@ -69,3 +69,21 @@ h3 {
     color: white;
     padding-top: 90px;
 }
+
+@media screen and (min-width: 480px) {
+    h1 {
+        background-color: darkturquoise;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    h1 {
+        background-color: lightsalmon;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    h1 {
+        background-color: maroon;
+    }
+}
